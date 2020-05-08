@@ -1,0 +1,30 @@
+{
+  "device": "oneplus7pro",
+  "builds": 3,
+  "updates": [
+    {
+      "name": "pa-quartz-1-oneplus7pro-20200415-release.zip",
+      "version": "1",
+      "build": "20200415",
+      "size": 1076129232,
+      "url": "https://updates.aospa.co/oneplus7pro/pa-quartz-1-oneplus7pro-20200415.zip",
+      "md5": "9aacdab46d4d14ea1e7094d306884cc4"
+    },
+    {
+      "name": "pa-quartz-2-oneplus7pro-20200425-release.zip",
+      "version": "2",
+      "build": "20200425",
+      "size": 1105160093,
+      "url": "https://updates.aospa.co/oneplus7pro/pa-quartz-2-oneplus7pro-20200425.zip",
+      "md5": "1fd8384c6c7c4b3a60c5b5ac28f37c42"
+    },
+    {
+      "name": "pa-quartz-3-oneplus7pro-20200508-dev.zip",
+      "version": "3.1",
+      "build": "20200509",
+      "size": 1109973274,
+      "url": "https://qc4.androidfilehost.com/dl/YQ-vN2EgN8n-rW5uLcChKg/1589130967/4349826312261800778/pa-quartz-3-oneplus7pro-20200508-dev.zip?",
+      "md5": "52b6e05172cd69ac7298cb6730415d07"
+    }
+  ]
+}
